@@ -1,12 +1,9 @@
-## Hi there 👋
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/9e054dfd-4b4c-4144-bc4b-8b2863a47fcd" alt="logo" width="30%"/>
+</div>
 
-<!--
 
-**Here are some ideas to get you started:**
+<h2>What is Buff?</h2>
+<p>Buff Academy is a platform where you can learn UI/UX design through an engaging gamified experience. Whether on your phone or the web, Buff offers interactive lessons, an AI assistant for instant help, and a fun, immersive way to grow your skills as a designer.</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p>For more details, visit <a href="https://www.buff.academy/">Buff Academy</a>.</p>
